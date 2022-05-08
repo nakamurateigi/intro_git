@@ -2,3 +2,4 @@ Gitの練習
 terminalの変更をします
 ・git add
 ・git commit
+・git remove
